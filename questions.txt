@@ -1,0 +1,5 @@
+1,1,what are the main problems in tribhuvan university?,1
+2,2,what are the main challenges in academic system in tribhuvan university?,2
+3,3,how is the political scenario in tribhuvan university?,3
+4,4,does Tribhuvan university publishes results in time?,4
+5,5,How good is the lecturers in Tribhuvan univeristy?,5
